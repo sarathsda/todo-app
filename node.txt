@@ -1,0 +1,10 @@
+Syntax to follow to write content in Readme.md
+
+# content -> h1 tag size
+
+## content -> h2 tag size
+
+### content -> h3 tag size
+
+
+
